@@ -4,6 +4,6 @@ In this project, we will analyze a subset of Yelp's business, reviews and user d
 ## Analysis
 In the analysis we will explore the Yelp's top business categories as well as the user ratings. We will analyze the user reviews as well as elite user reviews and how they compare to the restaurants overall rating. This will provide insights on how reflective Yelp's restaurant ratings are compared to the overall users ratings. For the analysis, we will be using PySpark API and matplotlib, pandas, numpy, and seaborn libraries. 
 
-Below is are screenshots of my cluster configurations and notbook configurations:
+Below is are screenshots of my cluster configurations and notebook configurations:
 ![cluster_iamge](assets/cluster_configuration.png)
 ![cluster_iamge](assets/notebook_configuration.png)
